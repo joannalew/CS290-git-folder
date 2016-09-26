@@ -1,2 +1,3 @@
 # OSU-CS290-Tester
-cs290 week1 assignment
+week1 assignment
+add 2 files to repo
